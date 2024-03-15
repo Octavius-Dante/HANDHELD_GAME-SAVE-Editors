@@ -1,8 +1,11 @@
 # HTML5 Savegame editors
 </br>
+</br>
 Link to access the editor : https://www.marcrobledo.com/savegame-editors/
 </br>
+</br>
 A compilation of console savegame editors made with HTML5 technologies.
+</br>
 
 It can edit a few bits in the following games:
  * The legend of Zelda: Tears of the Kingdom (Switch)
